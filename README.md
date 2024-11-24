@@ -1,6 +1,6 @@
-#Hashing Algorithm
+# Hashing Algorithm
 
-###Daniel Kozintsev
+### Daniel Kozintsev
 
 
 #### CS128 Final Project
